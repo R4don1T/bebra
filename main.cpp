@@ -6,5 +6,6 @@ int main()
 	cout << "input:";
 	cin << a << b;
 	cout << "summ is " << a + b << endl;
+	cout << "difference is " << a - b << endl;
 	return 0;
 }
