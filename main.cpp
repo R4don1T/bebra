@@ -1,6 +1,8 @@
 #include "sdt.h"
 #include <iostream>
 
+// This is a training program
+
 int main() {
     int a, b;
     std::cout << "Enter two integers: ";
